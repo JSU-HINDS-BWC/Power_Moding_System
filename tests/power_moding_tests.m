@@ -1,4 +1,4 @@
-classdef TestBMSControlSystem < matlab.unittest.TestCase
+classdef power_moding_tests < matlab.unittest.TestCase
     
     properties (ClassSetupParameter)
         ModelPath = {'../BMS_Control_System.slx'}; % Relative path to model
